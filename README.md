@@ -1,9 +1,22 @@
 # [qb_tracker_tool](https://github.com/fleapo/qb_tracker_tool)
-批量管理qBittorrent tracker的油猴脚本
+批量管理qBittorrent tracker的[油猴脚本](https://greasyfork.org/zh-CN/scripts/539174-xyg-qbittorrent-tracker%E6%89%B9%E9%87%8F%E6%93%8D%E4%BD%9C%E8%84%9A%E6%9C%AC)
 
 ## 使用方法
 
-### 以"替换"为例
+### 安装
+1. 安装油猴插件, [Tampermonkey](https://www.tampermonkey.net/)
+2. 安装脚本, [qb_tracker_tool](https://greasyfork.org/zh-CN/scripts/539174-xyg-qbittorrent-tracker%E6%89%B9%E9%87%8F%E6%93%8D%E4%BD%9C%E8%84%9A%E6%9C%AC)
+
+
+### 使用前，油猴设置，让脚本在你特定的QB Web UI地址上生效
+1. 在油猴插件中，找到qb_tracker_tool脚本
+2. 点击qb_tracker_tool脚本对应的编辑按钮
+3. 进入编辑页面后，点击左上方的"设置"选项卡
+4. "包括/排除"设置区域，在"用户包括"(精准匹配url)或"用户匹配"(支持通配符匹配特定样式的url)中，添加自己的QB Web UI访问地址
+5. 点击页面最下方的"保存"
+
+
+### 使用，以"替换"为例
 1. 选择"操作模式"单选框中的"替换"
 2. 选择使用分类筛选或使用标签筛选
 3. 在标签输入框中输入要筛选的标签名称
