@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         [xyg] qBittorrent Tracker批量操作脚本
 // @namespace    https://github.com/fleapo
-// @version      1.0.0
+// @version      1.0.1
 // @author       fleapo
 // @description  通过 WebUI 的 API 批量替换 Tracker, 基于"「水水」qBittorrent 管理脚本"修改
 // @license      MIT
