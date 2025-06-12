@@ -11,6 +11,7 @@
 // @noframes
 // @run-at       document-end
 // @include      http://192.168.0.1:6666/
+// @match        http://*:8080/
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
 
