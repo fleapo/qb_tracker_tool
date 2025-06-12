@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         [xyg] qBittorrent Tracker批量操作脚本
+// @namespace    https://github.com/fleapo
 // @version      1.0.0
 // @author       fleapo
 // @description  通过 WebUI 的 API 批量替换 Tracker, 基于"「水水」qBittorrent 管理脚本"修改
@@ -447,9 +448,7 @@
     </div>\
     <h2>Tracker: <span class="js-tip-btn"></span></h2>\
     <div class="act-body"></div>\
-    <hr>
-    「<a target="_blank" title="投喂支持" href="https://www.wdssmq.com/guestbook.html#h3-u6295u5582u652Fu6301" rel="nofollow">投喂支持</a>」\
-    「<a target="_blank" title="QQ 群 - 我的咸鱼心" href="https://jq.qq.com/?_wv=1027&k=SRYaRV6T" rel="nofollow">QQ 群 - 我的咸鱼心</a>」\
+
 </div>
 `;
 

@@ -1,4 +1,4 @@
-# qb_tracker_tool
+# [qb_tracker_tool](https://github.com/fleapo/qb_tracker_tool)
 批量管理qBittorrent tracker的油猴脚本
 
 ## 使用方法
